@@ -1,0 +1,1 @@
+"""Lyzeum package init."""

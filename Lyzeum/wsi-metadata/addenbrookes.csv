@@ -1,0 +1,1042 @@
+case_id,label,test_or_train,scan,arrival_cohort,full_diagnosis,source,scanner,file_format
+PA19-01169,coeliac,test,PA19-01169 A1-1 H&E.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+PA19-01263,coeliac,train,PA19-01263 A1-1 H&E.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+PS18-12305,coeliac,test,PS18-12305 A1-1 H&E.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+PS19-21163,coeliac,train,PS19-21163 A1-1 H&E.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+PS19-28306,coeliac,train,PS19-28306 A1-1 H&E.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+PS19-39947,normal,train,PS19-39947 A1-1 H&E.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+PS19-41598,normal,train,PS19-41598 A1-1 H&E.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+PS19-42928,normal,train,PS19-42928 A1-1 H&E.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+PS20-00990,normal,train,PS20-00990 A1-1 H&E.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00472,coeliac,train,TB21.00472. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00473,coeliac,train,TB21.00473. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00474,coeliac,train,TB21.00474. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00475,coeliac,train,TB21.00475. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00476,coeliac,train,TB21.00476. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00477,coeliac,train,TB21.00477. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00478,coeliac,train,TB21.00478. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00479,coeliac,train,TB21.00479. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00480,coeliac,train,TB21.00480. A1 LVL4-6.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00480,coeliac,train,TB21.00480. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00481,coeliac,train,TB21.00481. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00482,coeliac,train,TB21.00482. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00483,coeliac,train,TB21.00483. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00484,coeliac,train,TB21.00484. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00485,coeliac,train,TB21.00485. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00486,coeliac,train,TB21.00486. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00487,coeliac,train,TB21.00487. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00488,coeliac,train,TB21.00488. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00489,coeliac,train,TB21.00489. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00490,coeliac,test,TB21.00490. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00491,coeliac,train,TB21.00491. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00492,coeliac,test,TB21.00492. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00493,coeliac,train,TB21.00493. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00494,coeliac,train,TB21.00494. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00495,coeliac,train,TB21.00495. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00496,coeliac,train,TB21.00496. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00497,coeliac,train,TB21.00497. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00498,coeliac,train,TB21.00498. A1. LVL4-6.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00498,coeliac,train,TB21.00498. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00499,coeliac,train,TB21.00499. A1. LVL4-6.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00499,coeliac,train,TB21.00499. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00500,coeliac,train,TB21.00500. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00500,coeliac,train,TB21.00500. A2.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00501,coeliac,train,TB21.00501. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00502,coeliac,train,TB21.00502. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00503,coeliac,train,TB21.00503. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00504,coeliac,train,TB21.00504. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00505,coeliac,train,TB21.00505. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00506,coeliac,train,TB21.00506. A1.svs,T_cell,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.00637,normal,train,TB21.00637 A.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00637,normal,train,TB21.00637 A1.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00638,normal,train,TB21.00638.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00639,normal,train,TB21.00639.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00640,normal,train,TB21.00640.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00641,normal,train,TB21.00641.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00642,normal,train,TB21.00642.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00643,normal,train,TB21.00643.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00644,normal,train,TB21.00644.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00645,normal,train,TB21.00645.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00646,normal,train,TB21.00646.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00647,normal,train,TB21.00647.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00648,normal,train,TB21.00648.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00649,normal,train,TB21.00649.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00650,normal,train,TB21.00650.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00651,normal,train,TB21.00651.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00652,normal,test,TB21.00652.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00653,normal,test,TB21.00653.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00654,normal,train,TB21.00654.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00655,normal,train,TB21.00655.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00656,normal,train,TB21.00656.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00657,normal,train,TB21.00657.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00658,normal,train,TB21.00658.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00659,normal,train,TB21.00659.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00660,normal,train,TB21.00660.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00661,normal,train,TB21.00661.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00662,normal,train,TB21.00662.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00663,normal,train,TB21.00663.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00664,normal,train,TB21.00664.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00665,normal,test,TB21.00665.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00666,normal,train,TB21.00666.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00667,normal,train,TB21.00667.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00668,normal,train,TB21.00668.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00669,normal,test,TB21.00669.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00670,normal,train,TB21.00670.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00671,normal,test,TB21.00671.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00672,normal,train,TB21.00672.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00673,normal,train,TB21.00673.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00674,normal,train,TB21.00674.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00675,normal,train,TB21.00675.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00676,normal,train,TB21.00676.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00677,normal,train,TB21.00677.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00678,normal,train,TB21.00678.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00679,normal,train,TB21.00679.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00680,normal,train,TB21.00680.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00681,normal,train,TB21.00681.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00682,normal,train,TB21.00682.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00683,normal,train,TB21.00683.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00684,normal,test,TB21.00684.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00685,normal,test,TB21.00685.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00686,normal,train,TB21.00686.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00687,normal,train,TB21.00687.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00688,normal,train,TB21.00688.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00689,normal,train,TB21.00689.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00690,normal,train,TB21.00690.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00691,normal,train,TB21.00691.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00692,normal,train,TB21.00692.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00693,normal,train,TB21.00693.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00694,normal,train,TB21.00694.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00695,normal,train,TB21.00695.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00696,normal,train,TB21.00696.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00697,normal,train,TB21.00697.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00698,normal,train,TB21.00698.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00699,normal,train,TB21.00699.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00700,normal,train,TB21.00700.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00701,normal,train,TB21.00701.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00702,normal,train,TB21.00702.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00703,normal,train,TB21.00703.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00704,normal,train,TB21.00704.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00705,normal,train,TB21.00705.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00706,normal,train,TB21.00706.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00707,normal,train,TB21.00707.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00708,normal,train,TB21.00708.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00709,normal,train,TB21.00709.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00710,normal,train,TB21.00710.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00711,normal,train,TB21.00711.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00712,normal,train,TB21.00712.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00713,normal,train,TB21.00713.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00714,normal,train,TB21.00714.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00715,normal,train,TB21.00715.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00716,normal,train,TB21.00716.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00717,normal,train,TB21.00717.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00718,normal,train,TB21.00718.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00719,normal,train,TB21.00719.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00720,normal,train,TB21.00720.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00721,normal,train,TB21.00721.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00722,normal,train,TB21.00722 A.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00722,normal,train,TB21.00722 A1.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00723,normal,train,TB21.00723.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00724,normal,test,TB21.00724.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00725,normal,train,TB21.00725 L1-3.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00725,normal,train,TB21.00725 L4-6.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00726,normal,test,TB21.00726 L1-2.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00726,normal,test,TB21.00726 L3.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00727,normal,train,TB21.00727.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00728,normal,train,TB21.00728.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00729,normal,train,TB21.00729.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00730,normal,test,TB21.00730.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00731,normal,train,TB21.00731.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00732,normal,train,TB21.00732.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00733,normal,train,TB21.00733.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00734,normal,train,TB21.00734.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00735,normal,train,TB21.00735.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00736,normal,test,TB21.00736.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00737,normal,train,TB21.00737.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00738,normal,train,TB21.00738.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00739,normal,test,TB21.00739 L1-3.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00739,normal,test,TB21.00739 L4-6.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00740,normal,train,TB21.00740.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00741,normal,train,TB21.00741.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00742,normal,train,TB21.00742.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00743,normal,train,TB21.00743.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00744,normal,train,TB21.00744.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00745,normal,train,TB21.00745.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00746,normal,train,TB21.00746.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00747,normal,train,TB21.00747.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00748,normal,train,TB21.00748.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00749,normal,train,TB21.00749.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00750,normal,train,TB21.00750.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00751,normal,train,TB21.00751.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00752,normal,train,TB21.00752.svs,T_cell,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03204,normal,train,TB21.03204 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03205,normal,train,TB21.03205 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03206,normal,train,TB21.03206 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03207,normal,train,TB21.03207 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03208,other,train,TB21.03208 A1.svs,feb_2019,indeterminate_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03209,normal,train,TB21.03209 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03210,normal,test,TB21.03210 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03210,other,test,TB21.03210 B1.svs,feb_2019,duodenal-ulcer,addenbrookes,Leica Aperio AT2,svs
+TB21.03211,normal,train,TB21.03211 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03212,normal,train,TB21.03212 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03213,normal,test,TB21.03213 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03214,other,train,TB21.03214 A1.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03215,normal,train,TB21.03215 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03216,normal,train,TB21.03216 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03217,normal,train,TB21.03217 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03217,normal,train,TB21.03217 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03217,normal,train,TB21.03217 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03217,normal,train,TB21.03217 A1 L4-5.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03218,normal,train,TB21.03218 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03219,other,train,TB21.03219 A1-1.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03219,other,train,TB21.03219 A1-2.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03219,other,train,TB21.03219 A1 L1-3.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03219,other,train,TB21.03219 A1 L4-6.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03220,normal,train,TB21.03220 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03221,other,train,TB21.03221 A1-1.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03221,other,train,TB21.03221 A1-2.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03221,other,train,TB21.03221 A1 L1-3.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03221,other,train,TB21.03221 A1 L4-7.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03222,normal,train,TB21.03222 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03223,normal,train,TB21.03223 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03224,normal,train,TB21.03224 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03225,other,train,TB21.03225 A1.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03226,normal,test,TB21.03226 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03227,normal,train,TB21.03227 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03228,other,train,TB21.03228 A1.svs,feb_2019,chronic_duodenitis_peptic_aetiology,addenbrookes,Leica Aperio AT2,svs
+TB21.03229,normal,train,TB21.03229 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03230,other,train,TB21.03230 A1.svs,feb_2019,IEL_lymphocytosis,addenbrookes,Leica Aperio AT2,svs
+TB21.03230,other,train,TB21.03230 B1.svs,feb_2019,IEL_lymphocytosis,addenbrookes,Leica Aperio AT2,svs
+TB21.03231,other,train,TB21.03231 A1.svs,feb_2019,focal_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03232,normal,train,TB21.03232 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03232,normal,train,TB21.03232 B1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03233,normal,train,TB21.03233 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03234,normal,train,TB21.03234 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03235,normal,train,TB21.03235 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03236,normal,train,TB21.03236 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03237,normal,train,TB21.03237 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03238,other,test,TB21.03238 A1.svs,feb_2019,duodenal_mucosa_lymphangiectasia ,addenbrookes,Leica Aperio AT2,svs
+TB21.03239,other,train,TB21.03239 A1-1.svs,feb_2019,possible_adenocarcinoma,addenbrookes,Leica Aperio AT2,svs
+TB21.03239,other,train,TB21.03239 A1-2.svs,feb_2019,possible_adenocarcinoma,addenbrookes,Leica Aperio AT2,svs
+TB21.03240,normal,train,TB21.03240 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03241,normal,train,TB21.03241 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03242,normal,train,TB21.03242 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03243,normal,train,TB21.03243 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03244,other,train,TB21.03244 A1.svs,feb_2019,chronic_duodenitis_with_ulceration,addenbrookes,Leica Aperio AT2,svs
+TB21.03245,normal,train,TB21.03245 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03245,normal,train,TB21.03245 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03245,normal,train,TB21.03245 A1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03246,other,train,TB21.03246 A1.svs,feb_2019,indeterminate_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03247,other,train,TB21.03247 A1.svs,feb_2019,chronic_helicobactor_pylori,addenbrookes,Leica Aperio AT2,svs
+TB21.03248,normal,train,TB21.03248 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03250,normal,train,TB21.03250 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03251,normal,train,TB21.03251 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03252,normal,train,TB21.03252 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03253,normal,train,TB21.03253 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03254,normal,train,TB21.03254 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03255,other,train,TB21.03255 A1-1.svs,feb_2019,non_specific_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.03255,other,train,TB21.03255 A1-2.svs,feb_2019,non_specific_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.03256,normal,train,TB21.03256 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03257,normal,test,TB21.03257 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03257,normal,test,TB21.03257 B1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03257,normal,test,TB21.03257 B1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03258,other,train,TB21.03258 A1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03260,normal,train,TB21.03260 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03261,other,train,TB21.03261 A1.svs,feb_2019,indeterminate_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03262,normal,train,TB21.03262 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03262,normal,train,TB21.03262 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03263,normal,train,TB21.03263 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03264,other,train,TB21.03264 A1-1.svs,feb_2019,dysplasia_possible_malignancy,addenbrookes,Leica Aperio AT2,svs
+TB21.03264,other,train,TB21.03264 A1-2.svs,feb_2019,dysplasia_possible_malignancy,addenbrookes,Leica Aperio AT2,svs
+TB21.03265,other,train,TB21.03265 A1.svs,feb_2019,lymphangiectasia_unclear_significance,addenbrookes,Leica Aperio AT2,svs
+TB21.03266,normal,train,TB21.03266 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03267,normal,train,TB21.03267 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03268,normal,train,TB21.03268 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03269,normal,train,TB21.03269 B1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03270,normal,train,TB21.03270 B1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03270,normal,train,TB21.03270 C1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03271,normal,train,TB21.03271 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03272,normal,train,TB21.03272 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03273,normal,train,TB21.03273 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03274,normal,train,TB21.03274 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03275,normal,train,TB21.03275 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03276,normal,train,TB21.03276 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03277,normal,train,TB21.03277 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03278,normal,train,TB21.03278 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03279,other,train,TB21.03279 A1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03280,normal,train,TB21.03280 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03281,other,train,TB21.03281 A1-1.svs,feb_2019,reactive_regenerative_type_changes_no_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03281,other,train,TB21.03281 A1-2.svs,feb_2019,reactive_regenerative_type_changes_no_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03282,normal,train,TB21.03282 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03283,normal,train,TB21.03283 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03284,normal,train,TB21.03284 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01531,normal,train,TB21.01531 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01531,normal,train,TB21.01531 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01532,other,train,TB21.01532 A1-1.svs,feb_2019,coeliac-gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01532,other,train,TB21.01532 A1-2.svs,feb_2019,coeliac-gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01533,normal,train,TB21.01533 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01533,other,train,TB21.01533 B1-1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01534,normal,train,TB21.01534 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01536,other,train,TB21.01536 A1-1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01538,normal,train,TB21.01538 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01539,normal,train,TB21.01539 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01539,normal,train,TB21.01539 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01540,normal,train,TB21.01540 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01541,normal,train,TB21.01541 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01542,normal,train,TB21.01542 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01542,normal,train,TB21.01542 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A1-1 (FS).svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A1-2.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A1-12.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A1-13.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A2-1.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A2-2.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A2-3.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A2-4.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A3-1.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A4-1.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A5-1.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A5-2.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A5-3.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A5-4.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A6-1.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A6-2.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A6-3.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01543,other,test,TB21.01543 A6-4.svs,feb_2019,adenocarcinoma_possible_lymphovascular_invasion,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D1-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D2-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D3-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D6-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D9-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D10-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D11-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D12-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D14-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01544,other,test,TB21.01544 D15-1.svs,feb_2019,normal-not-duodenum,addenbrookes,Leica Aperio AT2,svs
+TB21.01545,normal,train,TB21.01545 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01545,normal,train,TB21.01545 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01546,other,train,TB21.01546 A1-1.svs,feb_2019,non_specific_focal_active_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.01547,normal,train,TB21.01547 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01550,normal,train,TB21.01550 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01552,normal,train,TB21.01552 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01552,normal,train,TB21.01552 A1 L1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01553,normal,train,TB21.01553 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01554,normal,train,TB21.01554 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01555,normal,train,TB21.01555 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01555,normal,train,TB21.01555 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01557,normal,train,TB21.01557 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 A1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 A1-1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B1-1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B2.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B2-1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B3.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01558,other,train,TB21.01558 B3-1.svs,feb_2019,fibro_inflammatory_changes_surgery_related,addenbrookes,Leica Aperio AT2,svs
+TB21.01559,normal,train,TB21.01559 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01559,normal,train,TB21.01559 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00655,normal,train,TB21.01563 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00655,normal,train,TB21.01563 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01564,other,train,TB21.01564 A1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01564,other,train,TB21.01564 A1-1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01568,normal,train,TB21.01568 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01569,other,test,TB21.01569 A1-1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01569,other,test,TB21.01569 A1-2.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01571,normal,train,TB21.01571 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01572,other,train,TB21.01572 A1-1.svs,feb_2019,giardia_lamblia,addenbrookes,Leica Aperio AT2,svs
+TB21.01573,other,train,TB21.01573 A1-1.svs,feb_2019,tabular_adenoma_low_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.01574,other,train,TB21.01574 A1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01574,other,train,TB21.01574 A1-1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01575,other,train,TB21.01575 A1-1.svs,feb_2019,gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.01576,normal,train,TB21.01576 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01577,normal,train,TB21.01577 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01577,normal,train,TB21.01577 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01578,normal,train,TB21.01578 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01582,normal,train,TB21.01582 B1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01582,normal,train,TB21.01582 B1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01583,normal,train,TB21.01583 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01584,normal,train,TB21.01584 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01585,normal,train,TB21.01585 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01585,normal,train,TB21.01585 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01586,normal,train,TB21.01586 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01587,normal,train,TB21.01587 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01591,normal,train,TB21.01591 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00656,normal,train,TB21.01595 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01596,normal,train,TB21.01596 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01597,normal,train,TB21.01597 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01600,other,train,TB21.01600 A1-1.svs,feb_2019,duodenal_polyp_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.01600,other,train,TB21.01600 A1-2.svs,feb_2019,duodenal_polyp_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.01600,other,train,TB21.01600 A1 L1-3.svs,feb_2019,duodenal_polyp_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.01600,other,train,TB21.01600 A1 L4-5.svs,feb_2019,duodenal_polyp_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.01601,normal,test,TB21.01601 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01602,normal,test,TB21.01602 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01605,normal,train,TB21.01605 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01606,normal,train,TB21.01606 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01612,normal,test,TB21.01612 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01613,normal,train,TB21.01613 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01614,normal,test,TB21.01614 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01616,normal,train,TB21.01616 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01617,other,train,TB21.01617 A1-1.svs,feb_2019,duodenal_polyp_tubulovillous_adenoma_low_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.01618,normal,train,TB21.01618 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01619,normal,train,TB21.01619 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01619,normal,train,TB21.01619 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01620,normal,train,TB21.01620 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01620,normal,train,TB21.01620 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01621,normal,train,TB21.01621 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01621,normal,train,TB21.01621 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00657,normal,train,TB21.01624 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01625,normal,test,TB21.01625 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01626,normal,train,TB21.01626 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01626,normal,train,TB21.01626 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01627,other,train,TB21.01627 A1-1.svs,feb_2019,mild_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01627,other,train,TB21.01627 A1-2.svs,feb_2019,mild_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01628,normal,train,TB21.01628 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01628,normal,train,TB21.01628 A1-2.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01628,normal,train,TB21.01628 A1-3.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01629,other,train,TB21.01629 A1-1.svs,feb_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01630,normal,train,TB21.01630 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01630,normal,train,TB21.01630 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01631,normal,train,TB21.01631 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01632,other,train,TB21.01632 A1-1.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01632,other,train,TB21.01632 A1-2.svs,feb_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01634,coeliac,train,TB21.01634 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01639,normal,train,TB21.01639 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01640,coeliac,train,TB21.01640 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01641,coeliac,train,TB21.01641 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01642,normal,train,TB21.01642 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01644,normal,test,TB21.01644 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01646,other,train,TB21.01646 A1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01646,other,train,TB21.01646 A1-1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01647,normal,train,TB21.01647 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01647,normal,train,TB21.01647 B1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01648,normal,train,TB21.01648 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01649,coeliac,test,TB21.01649 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01652,normal,train,TB21.01652 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01653,normal,train,TB21.01653 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01653,normal,train,TB21.01653 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01654,normal,train,TB21.01654 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01654,normal,train,TB21.01654 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01655,normal,test,TB21.01655 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01655,normal,test,TB21.01655 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01656,normal,train,TB21.01656 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01657,normal,train,TB21.01657 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01659,normal,train,TB21.01659 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01660,normal,train,TB21.01660 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01660,normal,train,TB21.01660 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01661,normal,train,TB21.01661 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01662,other,train,TB21.01662 A1-1.svs,feb_2019,chronic_inflammation_ectatic_duct,addenbrookes,Leica Aperio AT2,svs
+TB21.01665,normal,train,TB21.01665 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01665,normal,train,TB21.01665 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01666,normal,train,TB21.01666 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01666,normal,train,TB21.01666 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01667,other,train,TB21.01667 A1-1.svs,feb_2019,GVHD_background_reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.01668,other,test,TB21.01668 A1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01668,other,test,TB21.01668 A1-1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.01669,normal,train,TB21.01669 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01669,normal,train,TB21.01669 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01670,normal,train,TB21.01670 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01671,coeliac,train,TB21.01671 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01673,normal,train,TB21.01673 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01674,normal,train,TB21.01674 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01675,normal,train,TB21.01675 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01678,coeliac,train,TB21.01678 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01679,normal,train,TB21.01679 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01680,normal,test,TB21.01680 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00658,normal,train,TB21.01685 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01686,other,train,TB21.01686 A1.svs,feb_2019,reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.01686,other,train,TB21.01686 A1-1.svs,feb_2019,reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.01687,coeliac,train,TB21.01687 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01689,other,train,TB21.01689 A1-1.svs,feb_2019,indeterminate_enteropathy,addenbrookes,Leica Aperio AT2,svs
+TB21.00659,normal,train,TB21.01692 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01694,coeliac,train,TB21.01694 A1-1.svs,feb_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.01695,normal,train,TB21.01695 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01695,normal,train,TB21.01695 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01697,normal,train,TB21.01697 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01704,normal,train,TB21.01704 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01705,normal,train,TB21.01705 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.00660,normal,train,TB21.01707 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01708,normal,train,TB21.01708 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01710,other,train,TB21.01710 A1-1.svs,feb_2019,coeliac-gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01712,normal,train,TB21.01712 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01715,other,train,TB21.01715 A1-1.svs,feb_2019,coeliac-gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01715,other,train,TB21.01715 A1-2.svs,feb_2019,coeliac-gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01717,normal,train,TB21.01717 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01717,other,train,TB21.01717 B1-1 - D2 polyp.svs,feb_2019,polyp,addenbrookes,Leica Aperio AT2,svs
+TB21.01717,other,train,TB21.01717 B1-2 - D2 polyp.svs,feb_2019,polyp,addenbrookes,Leica Aperio AT2,svs
+TB21.01718,other,train,TB21.01718 A1-1.svs,feb_2019,normal_or_coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.01719,other,train,TB21.01719 B1-1.svs,feb_2019,helicobactor_associated_duodenitits,addenbrookes,Leica Aperio AT2,svs
+TB21.01720,other,train,TB21.01720 A1-1.svs,feb_2019,erosive_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01720,other,train,TB21.01720 A1-2.svs,feb_2019,erosive_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01720,other,train,TB21.01720 A1 L1-3.svs,feb_2019,erosive_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01720,other,train,TB21.01720 A1 L4-6.svs,feb_2019,erosive_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.01721,normal,test,TB21.01721 A1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.01721,normal,test,TB21.01721 A1-1.svs,feb_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03498,normal,train,TB21.03498 A1-1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03498,normal,train,TB21.03498 A1-2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03499,other,test,TB21.03499 A1-1.svs,jan_2018,reject-poor-quality-slide-not-normal-query-mild-duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03499,other,test,TB21.03499 A1-2.svs,jan_2018,reject-poor-quality-slide-not-normal-query-mild-duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03500,other,test,TB21.03500 A1.svs,jan_2018,indeterminate_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03501,other,train,TB21.03501 A1.svs,jan_2018,proliferative_mucosa_possible_lesion_edge,addenbrookes,Leica Aperio AT2,svs
+TB21.03502,normal,train,TB21.03502 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03503,normal,train,TB21.03503 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03504,normal,test,TB21.03504 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03505,normal,train,TB21.03505 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03506,normal,train,TB21.03506 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03507,normal,train,TB21.03507 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03508,normal,train,TB21.03508 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03509,normal,train,TB21.03509 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03510,normal,test,TB21.03510 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03511,normal,test,TB21.03511 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03512,other,test,TB21.03512 B1.svs,jan_2018,patchy_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.03513,other,train,TB21.03513 A1 - DU.svs,jan_2018,IEL_lymphocytosis,addenbrookes,Leica Aperio AT2,svs
+TB21.03514,normal,train,TB21.03514 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03516,normal,train,TB21.03516 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03517,normal,train,TB21.03517 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03518,normal,train,TB21.03518 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03519,normal,test,TB21.03519 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03520,normal,train,TB21.03520 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03521,normal,train,TB21.03521 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03522,normal,test,TB21.03522 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03523,normal,train,TB21.03523 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03524,normal,train,TB21.03524 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03525,normal,train,TB21.03525 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03526,other,train,TB21.03526 A1 - D1 polyp.svs,jan_2018,duodenal_polyp,addenbrookes,Leica Aperio AT2,svs
+TB21.03527,normal,train,TB21.03527 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03528,coeliac,train,TB21.03528 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03529,other,train,TB21.03529 A1.svs,jan_2018,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03530,normal,train,TB21.03530 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03531,normal,train,TB21.03531 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03532,normal,test,TB21.03532 B1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03533,normal,train,TB21.03533 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03534,normal,train,TB21.03534 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03535,normal,train,TB21.03535 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03536,normal,train,TB21.03536 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03537,other,train,TB21.03537 A1-1.svs,jan_2018,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.03537,other,train,TB21.03537 A1-2.svs,jan_2018,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.03538,normal,train,TB21.03538 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03539,coeliac,train,TB21.03539 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03540,other,train,TB21.03540 A1 - D1 polyp.svs,jan_2018,polyp_gastric_cystic_foveolar_hyperplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03541,normal,train,TB21.03541 A1 - D1 diffuse heamorrhagic areas.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03542,normal,test,TB21.03542 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03543,normal,train,TB21.03543 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03544,normal,train,TB21.03544 A1 - D2 previous MALT.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03545,normal,train,TB21.03545 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03546,normal,train,TB21.03546 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03546,other,train,TB21.03546 B1 - D2 polyp.svs,jan_2018,low_grade_adenoma_tubulovillous,addenbrookes,Leica Aperio AT2,svs
+TB21.03547,normal,train,TB21.03547 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03548,normal,train,TB21.03548 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03549,normal,train,TB21.03549 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03550,coeliac,test,TB21.03550 A1 - D2.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03550,coeliac,test,TB21.03550 B1 - D1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03551,normal,train,TB21.03551 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03552,normal,train,TB21.03552 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03553,normal,train,TB21.03553 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03554,other,train,TB21.03554 A1-1 DU.svs,jan_2018,non_specific_inflammatory,addenbrookes,Leica Aperio AT2,svs
+TB21.03554,other,train,TB21.03554 A1-2 - DU.svs,jan_2018,non_specific_inflammatory,addenbrookes,Leica Aperio AT2,svs
+TB21.03555,normal,train,TB21.03555 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03556,normal,train,TB21.03556 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03557,normal,train,TB21.03557 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03558,other,train,TB21.03558 A1 - D1 Polyp.svs,jan_2018,prominent_brunner_glands,addenbrookes,Leica Aperio AT2,svs
+TB21.03559,normal,train,TB21.03559 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03560,normal,train,TB21.03560 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03561,normal,train,TB21.03561 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03562,normal,train,TB21.03562 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03563,normal,train,TB21.03563 A1 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03563,other,train,TB21.03563 B1-1 - D1.svs,jan_2018,mild_chronic_duodenitis_reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03563,other,train,TB21.03563 B1-2 - D1.svs,jan_2018,mild_chronic_duodenitis_reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03563,other,train,TB21.03563 B1-3 - D1.svs,jan_2018,mild_chronic_duodenitis_reactive_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03564,normal,train,TB21.03564 A1-1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03564,normal,train,TB21.03564 A1-2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03565,normal,train,TB21.03565 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03566,normal,train,TB21.03566 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03567,coeliac,train,TB21.03567 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03568,normal,train,TB21.03568 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03569,normal,train,TB21.03569 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03570,normal,train,TB21.03570 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03571,normal,train,TB21.03571 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03573,normal,train,TB21.03573 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03574,coeliac,train,TB21.03574 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03575,other,train,TB21.03575 A1-1 - D1 gastric heterotopia.svs,jan_2018,gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.03575,other,train,TB21.03575 A1-2 - D1 gastric heteroopia.svs,jan_2018,gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.03576,normal,train,TB21.03576 A1-1 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03576,normal,train,TB21.03576 A1-2 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03576,normal,train,TB21.03576 B1-1 - D1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03576,normal,train,TB21.03576 B1-2 - D1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03577,normal,train,TB21.03577 A1 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03577,other,train,TB21.03577 B1 - D1.svs,jan_2018,minor_non_specific_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03578,normal,train,TB21.03578 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03579,other,train,TB21.03579 A1 - DU.svs,jan_2018,possible_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.03580,normal,train,TB21.03580 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03581,other,train,"TB21.03581 A1 - D2, D1 & oseophagus.svs",jan_2018,other,addenbrookes,Leica Aperio AT2,svs
+TB21.03583,normal,train,TB21.03583 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03584,normal,train,TB21.03584 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03585,other,train,TB21.03585 A1.svs,jan_2018,patchy_mild_changes_possible_cd,addenbrookes,Leica Aperio AT2,svs
+TB21.03586,normal,train,TB21.03586 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03587,normal,train,TB21.03587 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03588,normal,train,TB21.03588 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03589,normal,train,TB21.03589 A1 - D2 maybe.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03589,normal,train,TB21.03589 B1 - D1 maybe.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03590,coeliac,train,TB21.03590 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03591,normal,train,TB21.03591 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03592,other,train,TB21.03592 A1.svs,jan_2018,moderate_active_chronic_duodenitis_mild_excess_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03593,normal,train,TB21.03593 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03594,other,train,TB21.03594 A1.svs,jan_2018,patchy_mild_nonspecific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03595,normal,test,TB21.03595 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03596,other,train,TB21.03596 A1-2 - D papilla - adenomatous mucosa with complex high-grate dysplasia.svs,jan_2018,adenomatous_mucosa_with_complex_high_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03596,other,train,TB21.03596 A1-3 - D papilla - adenomatous mucosa with complex high-grate dysplasia.svs,jan_2018,adenomatous_mucosa_with_complex_high_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03596,other,train,TB21.03596 A2 - D papilla - adenomatous mucosa with complex high-grate dysplasia.svs,jan_2018,adenomatous_mucosa_with_complex_high_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03597,normal,train,TB21.03597 A1-1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03597,normal,train,TB21.03597 A1-2 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03598,normal,train,TB21.03598 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03599,coeliac,train,TB21.03599 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03600,coeliac,test,TB21.03600 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03601,other,train,TB21.03601 A1 - DU - single mucosal granuloma.svs,jan_2018,single_mucosal_granuloma,addenbrookes,Leica Aperio AT2,svs
+TB21.03602,other,train,TB21.03602 A1.svs,jan_2018,mild_increase_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03603,normal,train,TB21.03603 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03604,normal,train,TB21.03604 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03605,other,train,TB21.03605 A1.svs,jan_2018,partial_villous_atrophy,addenbrookes,Leica Aperio AT2,svs
+TB21.03606,normal,train,TB21.03606 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03607,other,train,TB21.03607 A1.svs,jan_2018,increased_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03608,normal,train,TB21.03608 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03609,normal,test,TB21.03609 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03610,normal,train,TB21.03610 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03611,normal,test,TB21.03611 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03612,other,train,TB21.03612 A1 - DU - GFD.svs,jan_2018,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.03613,normal,train,TB21.03613 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03614,normal,train,TB21.03614 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03615,normal,test,TB21.03615 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03616,normal,test,TB21.03616 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03617,normal,train,TB21.03617 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03618,normal,train,TB21.03618 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03619,normal,train,TB21.03619 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03620,normal,train,TB21.03620 A1-2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03620,normal,train,TB21.03620 A1-3.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03621,normal,train,TB21.03621 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03622,other,train,TB21.03622 A1-1 - GFD.svs,jan_2018,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.03622,other,train,TB21.03622 A1-2 - GFD.svs,jan_2018,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.03623,normal,train,TB21.03623 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03624,coeliac,train,TB21.03624 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03625,normal,train,TB21.03625 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03626,normal,train,TB21.03626 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03627,normal,train,TB21.03627 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03628,normal,train,TB21.03628 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03629,normal,train,TB21.03629 A1 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03629,other,train,TB21.03629 B1 - D1.svs,jan_2018,gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03630,normal,train,TB21.03630 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03631,other,train,TB21.03631 A1.svs,jan_2018,mild_chronic_duodenitis_suggesting_peptic_aetiology,addenbrookes,Leica Aperio AT2,svs
+TB21.03632,normal,train,TB21.03632 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03633,other,train,TB21.03633 A1 - D2 polyp - tubular adenomas with low-grade dysplasia.svs,jan_2018,polyps_tubular_adenomas_with_low_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03633,other,train,TB21.03633 B1 - D2 polyp - tubular adenomas with low-grade dysplasia.svs,jan_2018,polyps_tubular_adenomas_with_low_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03633,normal,train,TB21.03633 C1 - D2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03634,normal,train,TB21.03634 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03635,normal,train,TB21.03635 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03636,normal,test,TB21.03636 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03637,coeliac,train,TB21.03637 A1 - DU.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03638,other,train,TB21.03638 A1 - DU.svs,jan_2018,coeliac_gfd_evidence_of_previous_haemorrhage,addenbrookes,Leica Aperio AT2,svs
+TB21.03639,normal,train,TB21.03639 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03640,normal,train,TB21.03640 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03641,normal,train,TB21.03641 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03642,coeliac,train,TB21.03642 A1 - DU.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03643,normal,train,TB21.03643 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03644,other,test,TB21.03644 A1 - DU.svs,jan_2018,minor_changes_increased_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03645,other,train,TB21.03645 A1 - DU.svs,jan_2018,minor_changes_only,addenbrookes,Leica Aperio AT2,svs
+TB21.03646,normal,train,TB21.03646 A1-2 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03646,normal,train,TB21.03646 A1-3 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03647,normal,train,TB21.03647 B1-1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03647,normal,train,TB21.03647 B1-2 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03648,normal,train,TB21.03648 A1-1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03648,normal,train,TB21.03648 A1-2 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03649,normal,train,TB21.03649 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03650,other,train,TB21.03650 A1 - DU.svs,jan_2018,slight_raise_in_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03651,coeliac,train,TB21.03651 A1 - CD diagnostic sample (TB21.02228 GFD).svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03652,normal,train,TB21.03652 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03653,other,test,TB21.03653 A1.svs,jan_2018,stomach,addenbrookes,Leica Aperio AT2,svs
+TB21.03654,other,test,TB21.03654 A1-1 - D1 polyp.svs,jan_2018,polyp_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03654,other,test,TB21.03654 A1-2 - D1 polyp.svs,jan_2018,polyp_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03655,normal,test,TB21.03655 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03656,normal,train,TB21.03656 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03657,normal,train,TB21.03657 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03658,normal,train,TB21.03658 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03659,coeliac,train,TB21.03659 A1 - GFD poor compliance.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03660,normal,train,TB21.03660 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03661,normal,train,TB21.03661 A1-1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03661,normal,train,TB21.03661 A1-2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03662,normal,train,TB21.03662 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03663,normal,train,TB21.03663 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03664,normal,train,TB21.03664 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03665,other,train,TB21.03665 A1.svs,jan_2018,normal ,addenbrookes,Leica Aperio AT2,svs
+TB21.03666,other,train,TB21.03666 A1.svs,jan_2018,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03667,other,train,TB21.03667 A1.svs,jan_2018,non_specific_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.03668,normal,train,TB21.03668 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03669,normal,train,TB21.03669 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03670,normal,train,TB21.03670 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03671,normal,train,TB21.03671 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03672,normal,train,TB21.03672 A1-1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03672,normal,train,TB21.03672 A1-2.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03673,normal,train,TB21.03673 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03674,normal,train,TB21.03674 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03675,normal,train,TB21.03675 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03676,normal,train,TB21.03676 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03677,coeliac,train,TB21.03677 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03678,normal,train,TB21.03678 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03679,other,train,TB21.03679 A1 - D1 polyp - tubulovillous adenoma with low-grade dysplasia.svs,jan_2018,D1_polyp_tubulovillous_adenoma_with_low_grade_dysplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03680,other,train,TB21.03680 A1.svs,jan_2018,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.03681,normal,test,TB21.03681 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03682,other,train,TB21.03682 A1 - focal gastric metaplasia.svs,jan_2018,reactive_mucosal_changes_with_focal_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.03683,other,train,TB21.03683 A1 - D1 duodenitis.svs,jan_2018,active_nonspecific_chronic_duodenitis_in_keeping_with_peptic_aetiology.,addenbrookes,Leica Aperio AT2,svs
+TB21.03684,normal,train,TB21.03684 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03685,normal,train,TB21.03685 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03686,normal,train,TB21.03686 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03687,normal,train,TB21.03687 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03688,normal,train,TB21.03688 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03689,normal,train,TB21.03689 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03690,other,train,TB21.03690 A1.svs,jan_2018,intraepithelial_lymphocytosis_partial_villous_atrophy_possible_norovirus_related,addenbrookes,Leica Aperio AT2,svs
+TB21.03691,normal,train,TB21.03691 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03692,other,train,TB21.03692 D1.svs,jan_2018,tubular_adenoma_low_grade,addenbrookes,Leica Aperio AT2,svs
+TB21.03693,normal,train,TB21.03693 D1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03694,normal,train,TB21.03694 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03695,normal,train,TB21.03695 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03696,normal,train,TB21.03696 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03697,normal,train,TB21.03697 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03698,normal,train,TB21.03698 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03699,normal,test,TB21.03699 A1-2 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03700,normal,train,TB21.03700 A1 - DU.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03701,coeliac,train,TB21.03701 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.03702,normal,train,TB21.03702 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03703,other,train,TB21.03703 A1-1.svs,jan_2018,mild_chronic_duodenitis_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03703,other,train,TB21.03703 A1-2.svs,jan_2018,mild_chronic_duodenitis_regenerative_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.03704,normal,train,TB21.03704 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03705,normal,train,TB21.03705 A1.svs,jan_2018,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.03706,coeliac,train,TB21.03706 A1.svs,jan_2018,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.05161,normal,train,TB21.05161 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05162,normal,train,TB21.05162 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05163,normal,train,TB21.05163 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05164,normal,train,TB21.05164 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05165,normal,train,TB21.05165 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05166,normal,train,TB21.05166 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05167,other,test,TB21.05167 A1.svs,may_2019,borderline_increase_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.05168,other,test,TB21.05168 A1 - Adenocarcinoma.svs,may_2019,adenocarcenoma,addenbrookes,Leica Aperio AT2,svs
+TB21.05169,normal,train,TB21.05169 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05170,normal,train,TB21.05170 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05171,normal,train,TB21.05171 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05172,other,test,TB21.05172 A1.svs,may_2019,nonspecific_chronic_inflamation,addenbrookes,Leica Aperio AT2,svs
+TB21.05174,normal,train,TB21.05174 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05175,other,train,TB21.05175 A1 - Duodenitis.svs,may_2019,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05176,normal,train,TB21.05176 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05177,other,train,TB21.05177 A1 - Duodenitis.svs,may_2019,mild_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.05178,normal,train,TB21.05178 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05179,normal,train,TB21.05179 A1-1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05179,normal,train,TB21.05179 A1-2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05180,other,train,TB21.05180 A1.svs,may_2019,minor_changes_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.05181,other,train,TB21.05181 A1.svs,may_2019,minor_changes_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.05182,normal,train,TB21.05182 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05183,normal,train,TB21.05183 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05184,normal,train,TB21.05184 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05185,normal,train,TB21.05185 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05186,normal,train,TB21.05186 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05187,normal,train,TB21.05187 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05188,normal,train,TB21.05188 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05189,normal,train,TB21.05189 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05190,normal,train,TB21.05190 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05191,normal,train,TB21.05191 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05192,normal,train,TB21.05192 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05193,normal,train,TB21.05193 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05194,normal,train,TB21.05194 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05196,other,train,TB21.05196 A1.svs,may_2019,mild_focal_nonspecific_reactive_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.05197,other,train,TB21.05197 A1-1 - Duodenitis.svs,may_2019,focal_minimal_chronic_active_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05197,other,train,TB21.05197 A1-2 - Duodenitis.svs,may_2019,focal_minimal_chronic_active_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05198,coeliac,train,TB21.05198 A1 - DU.svs,may_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.05199,normal,train,TB21.05199 A1-1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05199,normal,train,TB21.05199 A1-2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05199,normal,train,TB21.05199 A1-3.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05200,other,train,TB21.05200 A1.svs,may_2019,nonspecific_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05201,other,train,TB21.05201 A1-1.svs,may_2019,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.05201,other,train,TB21.05201 A1-2.svs,may_2019,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.05201,other,train,TB21.05201 A1-3.svs,may_2019,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.05202,normal,train,TB21.05202 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05203,normal,train,TB21.05203 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05204,normal,test,TB21.05204 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05205,normal,train,TB21.05205 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05206,normal,test,TB21.05206 A1 - D2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05206,normal,test,TB21.05206 B1 - D1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05207,normal,train,TB21.05207 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05208,normal,train,TB21.05208 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05209,normal,train,TB21.05209 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05210,normal,train,TB21.05210 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05211,other,train,TB21.05211 A1.svs,may_2019,accute_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.05212,normal,train,TB21.05212 A1-1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05212,normal,train,TB21.05212 A1-2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05213,normal,test,TB21.05213 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05214,normal,train,TB21.05214 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05215,normal,train,TB21.05215 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05216,normal,train,TB21.05216 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05217,normal,train,TB21.05217 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05218,other,train,TB21.05218 A1.svs,may_2019,mild_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.05219,other,train,TB21.05219 A1 - D1 Duodenits.svs,may_2019,mild_nonspecific_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.05220,normal,train,TB21.05220 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05221,other,train,TB21.05221 A1.svs,may_2019,mild_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.05222,other,train,TB21.05222 A1 - D1.svs,may_2019,prominent_reactive_lymphoid_tissue_uncertain_significance,addenbrookes,Leica Aperio AT2,svs
+TB21.05223,normal,train,TB21.05223 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05224,normal,train,TB21.05224 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05225,other,train,TB21.05225 A1 - D1 & D2.svs,may_2019,mild_nonspecific_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.05226,normal,train,TB21.05226 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05227,normal,train,TB21.05227 A1 - D1 & D2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05228,other,train,TB21.05228 A1.svs,may_2019,chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05229,normal,test,TB21.05229 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05230,normal,train,TB21.05230 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05231,normal,train,TB21.05231 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05232,other,train,TB21.05232 A1-1.svs,may_2019,giardia_lambliasis,addenbrookes,Leica Aperio AT2,svs
+TB21.05232,other,train,TB21.05232 A1-2.svs,may_2019,giardia_lambliasis,addenbrookes,Leica Aperio AT2,svs
+TB21.05233,normal,train,TB21.05233 A1 - D1 Polyp.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05234,normal,train,TB21.05234 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05235,normal,test,TB21.05235 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05236,normal,train,TB21.05236 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05237,normal,train,TB21.05237 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05238,normal,test,TB21.05238 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05239,normal,train,TB21.05239 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05241,normal,train,TB21.05241 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05242,normal,test,TB21.05242 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05243,normal,train,TB21.05243 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05244,normal,train,TB21.05244 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05245,normal,train,TB21.05245 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05246,other,train,TB21.05246 A1 - mix of D's - abnormal.svs,may_2019,accute_inflammation_and_haemorrhage_possibly_caused_by_trauma,addenbrookes,Leica Aperio AT2,svs
+TB21.05247,normal,train,TB21.05247 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05248,normal,train,TB21.05248 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05249,normal,train,TB21.05249 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05250,normal,test,TB21.05250 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05251,normal,train,TB21.05251 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05252,normal,train,TB21.05252 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05253,normal,train,TB21.05253 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05254,normal,train,TB21.05254 A1 - D2.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05254,other,train,TB21.05254 B1 - D1.svs,may_2019,peptic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.05255,normal,train,TB21.05255 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05256,normal,train,TB21.05256 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05257,normal,train,TB21.05257 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05258,normal,train,TB21.05258 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05259,normal,train,TB21.05259 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05260,normal,train,TB21.05260 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05261,other,train,TB21.05261 A1.svs,may_2019,minor_changes_only,addenbrookes,Leica Aperio AT2,svs
+TB21.05262,normal,train,TB21.05262 A1 - D1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05263,other,train,TB21.05263 A1 - D1.svs,may_2019,reactive_regenerative_mucosal_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.05264,other,train,TB21.05264 A1 - D1 Polyp.svs,may_2019,polyp_gastric_heterotopia,addenbrookes,Leica Aperio AT2,svs
+TB21.05269,other,train,TB21.05269 A1.svs,may_2019,borderline_increase_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.05270,normal,train,TB21.05270 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05271,normal,train,TB21.05271 A1 - DU.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.05272,normal,train,TB21.05272 A1.svs,may_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04723,other,train,TB21.04723 A1 - Adenocarcinoma.svs,march_2019,major_papilla_addenocarcinoma,addenbrookes,Leica Aperio AT2,svs
+TB21.04724,other,train,TB21.04724 A1-2.svs,march_2019,minor_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04725,normal,train,TB21.04725 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04726,normal,train,TB21.04726 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04727,normal,train,TB21.04727 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04728,normal,train,TB21.04728 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04729,normal,train,TB21.04729 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04730,normal,test,TB21.04730 A1 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04731,normal,train,TB21.04731 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04732,normal,train,TB21.04732 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04733,normal,train,TB21.04733 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04734,normal,train,TB21.04734 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04735,coeliac,train,TB21.04735 A1-1.svs,march_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.04735,coeliac,train,TB21.04735 A1-2.svs,march_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.04736,normal,test,TB21.04736 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04737,normal,train,TB21.04737 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04738,normal,train,TB21.04738 A1 - D1-3.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04739,normal,train,TB21.04739 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04740,normal,train,TB21.04740 A1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04740,normal,train,TB21.04740 A1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04741,other,train,TB21.04741 A1 - D1-2.svs,march_2019,gastric_heterotopia_no_submucosa_present,addenbrookes,Leica Aperio AT2,svs
+TB21.04742,normal,train,TB21.04742 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04743,normal,train,TB21.04743 A1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04743,normal,train,TB21.04743 A1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04744,normal,train,TB21.04744 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04745,normal,train,TB21.04745 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04746,normal,train,TB21.04746 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04747,normal,train,TB21.04747 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04748,normal,train,TB21.04748 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04749,normal,train,TB21.04749 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04750,normal,train,TB21.04750 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04751,normal,train,TB21.04751 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04752,normal,train,TB21.04752 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04753,normal,train,TB21.04753 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04754,other,train,TB21.04754 A1.svs,march_2019,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04755,normal,train,TB21.04755 A1 - D1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04756,other,train,TB21.04756 A1 - D1 epithelial polyps.svs,march_2019,gastric_heterotopia_d1,addenbrookes,Leica Aperio AT2,svs
+TB21.04757,other,train,TB21.04757 A1.svs,march_2019,raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04757,other,train,TB21.04757 B1 - D1.svs,march_2019,raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04758,other,train,TB21.04758 A1.svs,march_2019,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04759,normal,test,TB21.04759 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04760,normal,train,TB21.04760 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04761,normal,train,TB21.04761 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04762,normal,train,TB21.04762 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04763,normal,train,TB21.04763 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04763,other,train,TB21.04763 B1 - D1-2 has piece stomach.svs,march_2019,gastric_mucosa,addenbrookes,Leica Aperio AT2,svs
+TB21.04764,normal,test,TB21.04764 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04765,normal,test,TB21.04765 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04766,other,train,TB21.04766 A1 - D1-3.svs,march_2019,focally_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04767,other,train,TB21.04767 A1 - Adenocarcenoma.svs,march_2019,adenocarcinoma_in_keeping_with_secondary_involvement_by_underlying_pancreatobiliary_tumour.,addenbrookes,Leica Aperio AT2,svs
+TB21.04768,normal,train,TB21.04768 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04769,coeliac,train,TB21.04769 A1.svs,march_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.04770,normal,test,TB21.04770 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04771,normal,test,TB21.04771 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04772,normal,train,TB21.04772 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04773,normal,train,TB21.04773 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04774,normal,train,TB21.04774 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04775,normal,train,TB21.04775 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04776,normal,train,TB21.04776 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04777,normal,train,TB21.04777 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04778,normal,train,TB21.04778 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04779,normal,train,TB21.04779 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04780,other,train,TB21.04780 A1.svs,march_2019,atypical_lymphoid_proliferation,addenbrookes,Leica Aperio AT2,svs
+TB21.04781,normal,train,TB21.04781 A1 - D1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04782,normal,train,TB21.04782 A1 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04783,normal,train,TB21.04783 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04784,normal,train,TB21.04784 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04785,normal,train,TB21.04785 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04786,normal,train,TB21.04786 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04787,normal,train,TB21.04787 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04788,normal,train,TB21.04788 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04789,other,train,TB21.04789 A1.svs,march_2019,reactive_changes_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.04790,normal,train,TB21.04790 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04791,normal,train,TB21.04791 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04792,normal,train,TB21.04792 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04793,normal,train,TB21.04793 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04794,coeliac,train,TB21.04794 A1.svs,march_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.04795,normal,train,TB21.04795 A1 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04796,normal,train,TB21.04796 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04797,normal,train,TB21.04797 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04798,other,train,TB21.04798 A1.svs,march_2019,squamous_oesophageal_epithelium,addenbrookes,Leica Aperio AT2,svs
+TB21.04799,other,train,TB21.04799 A1 -DU.svs,march_2019,mild_chronic_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.04800,normal,train,TB21.04800 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04801,normal,train,TB21.04801 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04802,normal,train,TB21.04802 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04803,normal,train,TB21.04803 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04804,normal,train,TB21.04804 A1-1 -DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04804,normal,train,TB21.04804 A1-2 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04805,normal,train,TB21.04805 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04806,normal,train,TB21.04806 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04807,normal,train,TB21.04807 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04808,normal,test,TB21.04808 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04809,normal,train,TB21.04809 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04811,normal,train,TB21.04811 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04812,normal,train,TB21.04812 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04813,other,train,TB21.04813 A1-1.svs,march_2019,raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04813,other,train,TB21.04813 A1-2.svs,march_2019,raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04814,normal,train,TB21.04814 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04815,normal,train,TB21.04815 A1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04815,normal,train,TB21.04815 A1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04816,other,train,TB21.04816 A1.svs,march_2019,raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04817,other,train,TB21.04817 A1 - D2 polyp.svs,march_2019,polyp_biopsy_adenoma,addenbrookes,Leica Aperio AT2,svs
+TB21.04818,normal,test,TB21.04818 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04819,other,train,TB21.04819 A1-1 D4 polyp.svs,march_2019,2_adenomata,addenbrookes,Leica Aperio AT2,svs
+TB21.04819,other,train,TB21.04819 A1-2 D4 polyp.svs,march_2019,2_adenomata,addenbrookes,Leica Aperio AT2,svs
+TB21.04819,other,train,TB21.04819 B1 D3 polyp.svs,march_2019,2_adenomata,addenbrookes,Leica Aperio AT2,svs
+TB21.04820,normal,test,TB21.04820 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04821,other,train,TB21.04821 A1.svs,march_2019,non_specific_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04822,normal,train,TB21.04822 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04823,normal,train,TB21.04823 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04824,normal,train,TB21.04824 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04825,coeliac,test,TB21.04825 A1.svs,march_2019,coeliac,addenbrookes,Leica Aperio AT2,svs
+TB21.04826,other,train,TB21.04826 A1-2 - D1.svs,march_2019,tiny_cluster_atypical_cells_in_lymphatic_channel_suspicious_of__malignancy,addenbrookes,Leica Aperio AT2,svs
+TB21.04826,other,train,TB21.04826 A1-2 - D1-001.svs,march_2019,tiny_cluster_atypical_cells_in_lymphatic_channel_suspicious_of__malignancy,addenbrookes,Leica Aperio AT2,svs
+TB21.04827,other,train,TB21.04827 A1.svs,march_2019,reactive_mucosal_changes,addenbrookes,Leica Aperio AT2,svs
+TB21.04828,normal,train,TB21.04828 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04829,normal,train,TB21.04829 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04830,normal,train,TB21.04830 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04831,other,train,TB21.04831 A1 - D2 duodenitis.svs,march_2019,active_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04832,normal,train,TB21.04832 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04833,normal,train,TB21.04833 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04834,normal,train,TB21.04834 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04835,normal,train,TB21.04835 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04836,normal,train,TB21.04836 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04837,normal,train,TB21.04837 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04838,normal,train,TB21.04838 B1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04838,normal,train,TB21.04838 B1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04839,other,train,TB21.04839 A1.svs,march_2019,chronic_inflammation_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04840,normal,train,TB21.04840 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04841,normal,train,TB21.04841 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04844,other,train,TB21.04844 A1 - maybe LCD.svs,march_2019,minor_raises_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04845,normal,train,TB21.04845 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04846,normal,train,TB21.04846 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04847,other,train,TB21.04847 A1.svs,march_2019,focal_increase_in_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04848,other,train,TB21.04848 A1 - inflammation with CMV duodenitis.svs,march_2019,Focal_moderate_active_chronic_inflammation_CMV_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04849,other,train,TB21.04849 A1 - D1 duodenitis.svs,march_2019,active_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04850,other,train,TB21.04850 A1 - non-specific focal mixed inflammation.svs,march_2019,non_specific_mixed_focal_inflammation,addenbrookes,Leica Aperio AT2,svs
+TB21.04851,normal,train,TB21.04851 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04852,normal,train,TB21.04852 A1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04852,normal,train,TB21.04852 A1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04853,other,train,TB21.04853 A1.svs,march_2019,reactive_hyperplastic_changes_and_focal_gastric_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.04854,normal,train,TB21.04854 A1 - D2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04854,normal,train,TB21.04854 B1 - D1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04856,normal,train,TB21.04856 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04857,normal,train,TB21.04857 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04858,other,train,TB21.04858 A1 - giardia infection.svs,march_2019,giardia,addenbrookes,Leica Aperio AT2,svs
+TB21.04859,other,train,TB21.04859 A1-1 - Duodenitis.svs,march_2019,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04859,other,train,TB21.04859 A1-2 - Duodenitis.svs,march_2019,mild_chronic_duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04860,normal,train,TB21.04860 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04861,normal,train,TB21.04861 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04862,normal,train,TB21.04862 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04864,normal,train,TB21.04864 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04865,normal,train,TB21.04865 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04866,other,train,TB21.04866 A1.svs,march_2019,borderline_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04867,normal,train,TB21.04867 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04868,normal,train,TB21.04868 A1 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04869,normal,train,TB21.04869 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04870,normal,train,TB21.04870 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04871,other,train,TB21.04871 A1 - focal antral metaplasia.svs,march_2019,focal_antral_metaplasia,addenbrookes,Leica Aperio AT2,svs
+TB21.04872,normal,test,TB21.04872 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04873,other,test,TB21.04873 A1 - D1 duodenitis.svs,march_2019,chronic_duodenitis_peptic_aetiology.,addenbrookes,Leica Aperio AT2,svs
+TB21.04887,other,train,TB21.04887 A1-1.svs,march_2019,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.04887,other,train,TB21.04887 A1-2.svs,march_2019,coeliac_gfd,addenbrookes,Leica Aperio AT2,svs
+TB21.04874,normal,train,TB21.04874 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04875,other,train,TB21.04875 A1 - D1 polyp.svs,march_2019,normal_polyp,addenbrookes,Leica Aperio AT2,svs
+TB21.04876,normal,train,TB21.04876 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04877,normal,train,TB21.04877 C1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04878,normal,train,TB21.04878 A1 - D2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04878,other,train,TB21.04878 B1 - D1 Duodenitis.svs,march_2019,duodenitis,addenbrookes,Leica Aperio AT2,svs
+TB21.04879,normal,test,TB21.04879 A1 - DU.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04880,normal,train,TB21.04880 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04881,normal,train,TB21.04881 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04882,normal,train,TB21.04882 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04883,normal,train,TB21.04883 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04884,normal,train,TB21.04884 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04885,normal,train,TB21.04885 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04886,normal,train,TB21.04886 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04888,normal,train,TB21.04888 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04889,normal,train,TB21.04889 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04890,normal,test,TB21.04890 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04891,normal,train,TB21.04891 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04892,normal,train,TB21.04892 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04893,normal,train,TB21.04893 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04894,normal,train,TB21.04894 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04895,normal,train,TB21.04895 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04897,normal,train,TB21.04897 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04898,normal,train,TB21.04898 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04899,normal,train,TB21.04899 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04900,normal,train,TB21.04900 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04901,normal,train,TB21.04901 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04902,normal,train,TB21.04902 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04903,normal,train,TB21.04903 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04904,normal,train,TB21.04904 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04905,normal,test,TB21.04905 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04906,normal,train,TB21.04906 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04907,other,train,TB21.04907 A1-2 - non-specific inflammation.svs,march_2019,non_specific_inflammation_lamina_propria,addenbrookes,Leica Aperio AT2,svs
+TB21.04907,other,train,TB21.04907 A1 - non-specific inflammation.svs,march_2019,non_specific_inflammation_lamina_propria,addenbrookes,Leica Aperio AT2,svs
+TB21.04908,normal,train,TB21.04908 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04909,normal,train,TB21.04909 A1-1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04909,normal,train,TB21.04909 A1-2.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04910,other,test,TB21.04910 A1 - borderline lyphocyte increase.svs,march_2019,borderline_raised_IELs,addenbrookes,Leica Aperio AT2,svs
+TB21.04911,normal,train,TB21.04911 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04912,other,train,"TB21.04912 A1 - increase inlymphocytes, Villous architecture intact.svs",march_2019,raised_IELs_intact_villous_architecture,addenbrookes,Leica Aperio AT2,svs
+TB21.04913,normal,train,TB21.04913 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04914,normal,train,TB21.04914 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04915,normal,train,TB21.04915 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04916,normal,train,TB21.04916 A1 - D1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04917,normal,train,TB21.04917 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04918,normal,train,TB21.04918 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04919,normal,train,TB21.04919 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04920,normal,test,TB21.04920 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04921,normal,train,TB21.04921 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04922,normal,train,TB21.04922 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04923,normal,train,TB21.04923 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs
+TB21.04923,other,train,TB21.04923 B1 - duodenal bulb.svs,march_2019,bulb,addenbrookes,Leica Aperio AT2,svs
+TB21.04924,other,test,"TB21.04924 A1-1 - DU - transplant duodenum, no sign of rejection.svs",march_2019,transplant_no_rejection,addenbrookes,Leica Aperio AT2,svs
+TB21.04924,other,test,"TB21.04924 A1-2 - DU - transplant duodenum, no sign of rejection.svs",march_2019,transplant_no_rejection,addenbrookes,Leica Aperio AT2,svs
+TB21.04926,normal,train,TB21.04926 A1.svs,march_2019,normal,addenbrookes,Leica Aperio AT2,svs

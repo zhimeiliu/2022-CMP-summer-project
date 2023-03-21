@@ -1,0 +1,10 @@
+case,scan,orig_label,new_label
+LYZC1110686312,LYZC1110686312.ome.tif,coeliac,reject-poor-quality
+LYZC1111512212,LYZC1111512212.ome.tif,coeliac,normal
+LYZC111303412,LYZC111303412.ome.tif,coeliac,reject-poor-quality
+LYZC1113264312,LYZC1113264312.ome.tif,coeliac,nonspecific-duodenitis
+LYZC1113699212,LYZC1113699212.ome.tif,coeliac,reject-poor-quality
+LYZC1113783312,LYZC1113783312.ome.tif,coeliac,normal
+LYZC1113848212,LYZC1113848212.ome.tif,coeliac,reject-poor-quality
+LYZC1115361212,LYZC1115361212.ome.tif,coeliac,reject-poor-quality-query-raised-IELs
+LYZN11158922,LYZN11158922.ome.tif,normal,reject-poor-quality-query-nonspecific-chronic-inflammation

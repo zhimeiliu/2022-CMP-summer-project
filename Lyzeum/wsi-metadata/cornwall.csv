@@ -1,0 +1,17 @@
+scan,full_diagnosis,case_id,label,file_format,source,scanner,test_or_train,magnification
+20SOZX00430.ome.tif,normal,20SOZX00430,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+22H004154 19F atrophy IELs coeliac.svs,coeliac,22H004154,coeliac,svs,cornwall,aperio-unknown,test,
+20SOZX00418.ome.tif,normal,20SOZX00418,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+20SOZX06009.ome.tif,normal,20SOZX06009,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+22H004002 72MD2bxCoeliacAtrophyandIELs.svs,coeliac,22H004002,coeliac,svs,cornwall,aperio-unknown,test,
+22H009617 52F D2 suspicious of coeliac.svs,coeliac,22H009617,coeliac,svs,cornwall,aperio-unknown,test,
+20SOZX00432.ome.tif,normal,20SOZX00432,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+20SOZX00420.ome.tif,normal,20SOZX00420,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+20SOZX06004.ome.tif,normal,20SOZX06004,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+22h008599 36F D2 suspicious coeliac.svs,coeliac,22h008599,coeliac,svs,cornwall,aperio-unknown,test,
+20SOZX03392.ome.tif,normal,20SOZX03392,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+20SOZX00419.ome.tif,normal,20SOZX00419,normal,ome.tif,cornwall,3d-histech-uknown,test,20.0
+22H005481 50F coeliac also has lymphocytic gastritis.svs,coeliac,22H005481,coeliac,svs,cornwall,aperio-unknown,test,
+22H008417 69M D2 +coeliac serology.svs,coeliac,22H008417,coeliac,svs,cornwall,aperio-unknown,test,
+22H007844 21F Coeliac patchy changes D2.svs,coeliac,22H007844,coeliac,svs,cornwall,aperio-unknown,test,
+22H011611 35F D2 clinically expected coeliac.svs,coeliac,22H011611,coeliac,svs,cornwall,aperio-unknown,test,
