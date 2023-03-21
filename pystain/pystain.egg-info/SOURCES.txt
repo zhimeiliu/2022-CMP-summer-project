@@ -1,0 +1,10 @@
+README.md
+setup.py
+pystain/__init__.py
+pystain/macenko_extractor.py
+pystain/stain_transformer.py
+pystain/utils.py
+pystain.egg-info/PKG-INFO
+pystain.egg-info/SOURCES.txt
+pystain.egg-info/dependency_links.txt
+pystain.egg-info/top_level.txt

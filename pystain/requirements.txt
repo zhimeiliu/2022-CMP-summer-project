@@ -1,0 +1,41 @@
+appdirs==1.4.4
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+black==19.10b0
+certifi==2022.5.18.1
+click @ file:///opt/concourse/worker/volumes/live/17ca243b-fc66-462b-4bc1-f11ad524e336/volume/click_1646056621177/work
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
+cytoolz==0.11.0
+dask @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7080ce55-51bc-40c2-9692-27ab9332fde0fegout0m/croots/recipe/dask-core_1653082100329/work
+fsspec @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_525f1e44-6d75-452d-9a70-93c42355faa3jwokas7u/croots/recipe/fsspec_1652802115470/work
+imagecodecs @ file:///opt/concourse/worker/volumes/live/ab9fe69e-f7d4-471a-6199-cb95a745fb88/volume/imagecodecs_1635529117386/work
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+locket @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_81b4c56b-0395-495d-81c1-83208d36944d357hqdd0/croots/recipe/locket_1652903116052/work
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/0cda23d8-7460-44b2-7e5d-3c76a8a0ca7e/volume/mkl_random_1626186083266/work
+mkl-service==2.4.0
+mypy-extensions==0.4.3
+networkx @ file:///opt/conda/conda-bld/networkx_1647437648384/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e3f85f54-0572-4c0e-b190-4bc4766fc3fenewxarhq/croots/recipe/numpy_and_numpy_base_1652801682879/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+partd @ file:///opt/conda/conda-bld/partd_1647245470509/work
+pathspec==0.7.0
+Pillow==9.0.1
+pluggy @ file:///opt/concourse/worker/volumes/live/42ef51ae-f79c-40e0-6d26-eb6fe9d8ba6e/volume/pluggy_1648042596777/work
+py @ file:///opt/conda/conda-bld/py_1644396412707/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+-e git+ssh://git@gitlab.developers.cam.ac.uk/path/soilleux/soilleux-group/pystain.git@b2f600dc7a0bb90ff9aa90c95ff5d95ad9ba6d87#egg=pystain
+pytest==7.1.2
+PyWavelets @ file:///opt/concourse/worker/volumes/live/6f70ac9d-9e9e-4250-6d7d-22d19aef341f/volume/pywavelets_1648727880440/work
+PyYAML==6.0
+regex @ file:///opt/concourse/worker/volumes/live/92c80cd7-7907-4d3e-4d09-20e3cc1c2619/volume/regex_1648447728151/work
+scikit-image @ file:///opt/concourse/worker/volumes/live/584d0455-dcb7-4cf1-5977-c077944180ee/volume/scikit-image_1648214186784/work
+scipy @ file:///opt/concourse/worker/volumes/live/9284487f-601d-4bc3-5556-535c4949d341/volume/scipy_1641557769615/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tifffile @ file:///tmp/build/80754af9/tifffile_1627275862826/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli @ file:///tmp/build/80754af9/tomli_1637314251069/work
+toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
+torch==1.11.0
+typed-ast @ file:///opt/concourse/worker/volumes/live/c2210c24-bb2d-4474-77f5-1bc9bf1cb79f/volume/typed-ast_1624953683856/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
